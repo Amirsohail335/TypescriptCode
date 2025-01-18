@@ -20,5 +20,6 @@ console.log(`Result: ${result}`); // Output: Result: 6
 
 // Example usage
 printName("Alice");
-printName("Bob");
+printName("himmat");
 printName("Charlie"); // Output: Name: Alice, Name: Bob, Name: Charlie
+
