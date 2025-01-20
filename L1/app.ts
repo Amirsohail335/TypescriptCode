@@ -2,7 +2,7 @@ function add(n1, n2) {
   return n1 + n2;
 }
 
-const n1 = 10;
+const n1 = 1066;
 const n2 = 10000;
 // const result = add(n1, n2);
 // console.log(result); // 30
