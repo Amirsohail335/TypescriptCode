@@ -10,8 +10,8 @@ const n2 = 10000;
 function printName(name: string): void {
   console.log(`Name: ${name}`);
 }
-function subtract(a: number, b: number): number {
-  return a - b;
+function subtract(a: number, c: number): number {
+  return a - c;
 }
 
 // Example usage
