@@ -22,6 +22,5 @@ console.log(`Result: ${result}`); // Output: Result: 6
 printName("Alice");
 printName("himmat");
 printName("Charlie");
-printName("Shiza")
- // Output: Name: Alice, Name: Bob, Name: Charlie
-
+printName("Shiza");
+// Output: Name: Alice, Name: Bob, Name: Charlie
