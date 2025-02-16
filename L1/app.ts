@@ -20,7 +20,8 @@ console.log(`Result: ${result}`); // Output: Result: 6
 
 // Example usage
 printName("Alice");
-printName("himmat");
+printName("hi");
 printName("Charlie");
 printName("Shiza");
 // Output: Name: Alice, Name: Bob, Name: Charlie
+
