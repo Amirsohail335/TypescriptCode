@@ -29,7 +29,7 @@ console.log(`Result of multiply ${multiplyResult}`);
 
 
 // Example usage
-printName("Alice");
+printName("Alicy");
 printName("hi");
 printName("Charlie");
 printName("Shiza");
