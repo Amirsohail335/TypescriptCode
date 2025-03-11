@@ -18,15 +18,12 @@ function multiply(x: number, y: number): number {
   return x * y;
 }
 
-
-
 // Example usage
 const result = subtract(10, 4);
 console.log(`Result: ${result}`); // Output: Result: 6
 
-const multiplyResult = multiply(10, 3);
+const multiplyResult = multiply(10, 7);
 console.log(`Result of multiply ${multiplyResult}`);
-
 
 // Example usage
 printName("Alicy");
