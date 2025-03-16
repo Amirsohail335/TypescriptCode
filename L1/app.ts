@@ -29,6 +29,6 @@ console.log(`Result of multiply ${multiplyResult}`);
 printName("Alicy");
 printName("hi");
 printName("Charlie");
-printName("Shiza");
+printName("Shiza Amreens");
 printName("Bob22");
 // Output: Name: Alice, Name: Bob, Name: Charlie
