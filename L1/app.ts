@@ -26,7 +26,7 @@ const multiplyResult = multiply(10, 7);
 console.log(`Result of multiply ${multiplyResult}`);
 
 // Example usage
-printName("Alicy");
+printName("Alicy1");
 printName("hi");
 printName("Charlie dean deen");
 printName("Shiza Amreens");
