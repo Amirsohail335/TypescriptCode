@@ -28,7 +28,7 @@ console.log(`Result of multiply ${multiplyResult}`);
 // Example usage
 printName("Alicy1");
 printName("hi");
-printName("Charlie dean deeen");
+printName("Charlie dean den");
 printName("Shiza Amreens");
 printName("Bob");
 // Output: Name: Alice, Name: Bob, Name: Charlie
