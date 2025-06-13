@@ -32,3 +32,4 @@ printName("Charlie dean den");
 printName("Shiza Amreens");
 printName("Bob");
 // Output: Name: Alice, Name: Bob, Name: Charlie
+printName("shama");
